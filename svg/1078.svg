@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<symbol id="pala" viewBox="-67.5 -262 135 524">
+	<path d="M10.239,262H-9.916H-67.5v-67.5c0-33.91,25.008-61.972,57.584-66.769v-377.915c-0.082-0.523-0.137-1.055-0.137-1.602   c0-5.641,4.572-10.215,10.215-10.215c5.642,0,10.215,4.574,10.215,10.215c0,0.547-0.055,1.078-0.138,1.602v377.956   C42.659,132.707,67.5,160.701,67.5,194.5V262H10.239z"/>
+</symbol>
+<use xlink:href="#pala" width="135" height="524" id="XMLID_11_" x="-67.5" y="-262" transform="matrix(0.1912 0 0 -0.1912 48.293 50.1343)" overflow="visible"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<symbol id="frusta" viewBox="-67.5 -264.249 106.25 515.929">
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M-67.5,192.25"/>
+	<path d="M7.25-63.25h-14.5l-11.927,0.001v-29l8.962-0.001v-161.784c0-5.643,4.572-10.215,10.215-10.215   c5.642,0,10.215,4.572,10.215,10.215V-92.25l9.057,0.001v29L7.25-63.25z"/>
+	<line fill="#000000" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="-7.25" y1="-63.25" x2="-33.75" y2="217.16"/>
+	<line fill="#000000" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="7.25" y1="-63.25" x2="33.75" y2="217.16"/>
+	<path fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" d="M-33.75,216.709   c0,16.553,15.111,29.971,33.75,29.971s33.75-13.418,33.75-29.971"/>
+</symbol>
+<use xlink:href="#frusta" width="106.25" height="515.929" id="XMLID_9_" x="-67.5" y="-264.249" transform="matrix(0.1915 0 0 -0.1932 48.1216 48.6357)" overflow="visible"/>
+</svg>
