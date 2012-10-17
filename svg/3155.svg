@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<circle cx="19.449" cy="23.873" r="9.307"/>
+	<polygon points="19.39,39.539 37.777,87.749 1.001,87.749  "/>
+</g>
+<g>
+	<circle cx="80.768" cy="23.873" r="9.307"/>
+	<polygon points="80.707,87.749 62.319,39.539 99.095,39.539  "/>
+</g>
+<g>
+	<path fill="#000000" d="M50.048,98.206c-0.839,0-1.52-0.68-1.52-1.52V2.52c0-0.839,0.68-1.519,1.52-1.519   c0.839,0,1.52,0.68,1.52,1.519v94.167C51.567,97.526,50.887,98.206,50.048,98.206z"/>
+</g>
+</svg>

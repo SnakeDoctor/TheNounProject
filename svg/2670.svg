@@ -1,0 +1,11 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg6584" sodipodi:docname="base.svg" inkscape:version="0.48.2 r9819" x="0px" y="0px" width="100px" height="63.5px" viewBox="0 36.5 100 63.5" enable-background="new 0 36.5 100 63.5" xml:space="preserve">
+<sodipodi:namedview id="base" pagecolor="#ffffff" showgrid="true" inkscape:zoom="0.7" borderopacity="1.0" inkscape:cy="111.83042" bordercolor="#666666" inkscape:cx="-94.613276" inkscape:current-layer="layer1" inkscape:pageopacity="0.0" inkscape:window-y="68" inkscape:window-height="848" inkscape:snap-nodes="false" inkscape:window-width="952" inkscape:window-maximized="0" inkscape:snap-bbox="true" inkscape:pageshadow="2" inkscape:window-x="80" inkscape:document-units="px">
+	<inkscape:grid type="xygrid" id="grid6592" enabled="true" visible="true" empspacing="5" snapvisiblegridlinesonly="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g>
+	<circle cx="24.575" cy="86.378" r="7.622"/>
+	<circle cx="70.915" cy="86.378" r="7.622"/>
+	<path d="M93.781,80.5H93.5v-31h-51v-1.46c0-0.759-0.148-0.54-0.906-0.54h-4.728c-0.088-2-1.093-4.097-2.323-4.097   c-1.23,0-2.235,2.097-2.323,4.097h-3.225c-0.758,0-1.495-0.219-1.495,0.54v1.46h-7v3.099l-4.415,14.633l-8.307,3.66l-1.917,7.865   l1.012,3.678L6.791,82.5H6.767c0,0-0.789-0.04-0.789,2c0,2.059,0.789,2,0.789,2H8.01h6.097h1.083c0-1,0.018-0.616,0.034-0.832   c0.087-1.257,0.427-2.533,0.971-3.596c1.513-2.963,4.587-4.855,8.14-4.855c5.052,0,9.147,3.283,9.147,9.283h28.503   c0-6,4.095-9.145,9.146-9.145c5.053,0,9.146,3.145,9.146,9.145h13.503c0,0,1.219-0.156,1.219-3C95,80.68,93.781,80.5,93.781,80.5z    M28.5,68.5h-8.839l4.063-15H28.5V68.5z M36.642,47.5l-2.099-3.85c1.16,0,2.099,2.85,2.109,3.85H36.642z M79.5,65.5h-5v6h-6v-6h-6   v-5h6v-7h6v7h5V65.5z"/>
+</g>
+</svg>

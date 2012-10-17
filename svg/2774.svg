@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<rect x="18.75" y="37.5" style="fill:#010101;" width="12.5" height="12.5"/>
+<rect x="43.75" y="62.5" style="fill:#010101;" width="12.5" height="12.5"/>
+<rect x="68.75" y="37.5" style="fill:#010101;" width="12.5" height="12.5"/>
+<path style="fill:#010101;" d="M25,18.75V6.25C25,2.795,27.795,0,31.25,0s6.25,2.795,6.25,6.25v12.5c0,3.455-2.795,6.25-6.25,6.25  S25,22.205,25,18.75z"/>
+<polygon style="fill:#010101;" points="100,100 0,100 0,12.5 12.5,12.5 12.5,87.5 87.5,87.5 87.5,12.5 100,12.5 100,100 "/>
+<rect x="43.75" y="37.524" style="fill:#010101;" width="12.5" height="12.5"/>
+<rect x="18.75" y="62.5" style="fill:#010101;" width="12.5" height="12.5"/>
+<polygon style="fill:#010101;" points="68.75,75 68.75,62.5 81.25,62.5 "/>
+<path style="fill:#010101;" d="M62.5,18.75V6.25C62.5,2.795,65.295,0,68.75,0S75,2.795,75,6.25v12.5c0,3.455-2.795,6.25-6.25,6.25  S62.5,22.205,62.5,18.75z"/>
+</svg>

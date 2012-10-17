@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="battle_axe" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<polygon points="50,14 48,20 48,85 50,85 52,85 52,20 "/>
+<rect x="47" y="84" width="6" height="2"/>
+<rect x="47" y="64" width="6" height="2"/>
+<rect x="47" y="19" width="6" height="2"/>
+<path d="M49,35v-8l-1-1c-6.075,0-11-4.925-11-11c-8.836,0-16,7.164-16,16s7.164,16,16,16c0-6.075,4.925-11,11-11L49,35z"/>
+<polygon points="54,36 48,36 48,31 48,26 54,26 61,31 "/>
+</svg>

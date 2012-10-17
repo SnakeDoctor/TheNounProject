@@ -1,0 +1,19 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="62.5px" viewBox="0 0 256 160.786" enable-background="new 0 0 256 160.786" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="-50.825" y="-23.587" width="432.883" height="186.847"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_" overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M247.533,19.042h-71.938     C166.997,19.042,171.449,0,160.797,0h-57.123c-9.297,0-5.293,19.042-14.825,19.042H8.456C3.168,19.042,0,22.2,0,27.499v124.821     c0,5.288,3.168,8.467,8.456,8.467h239.077c5.293,0,8.467-3.179,8.467-8.467V27.499C256,22.2,252.826,19.042,247.533,19.042      M243.305,141.744c0,2.644-3.703,6.336-6.342,6.336H16.929c-2.655,0-4.245-1.584-4.245-4.217V35.955     c0-2.633,1.59-4.217,4.245-4.217h222.148c2.639,0,4.228,1.584,4.228,4.217V141.744z"/>
+			<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M132.332,46.705     c23.806,0,43.116,19.305,43.116,43.1c0,23.796-19.311,43.101-43.116,43.101c-23.806,0-43.117-19.305-43.117-43.101     C89.215,66.01,108.526,46.705,132.332,46.705"/>
+			<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M33.852,61.356h14.815     c3.96,0,6.342,2.36,6.342,6.336s-2.382,6.348-6.342,6.348H33.852c-3.971,0-6.342-2.371-6.342-6.348S29.88,61.356,33.852,61.356"/>
+		</g>
+	</g>
+</switch>
+</svg>

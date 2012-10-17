@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="0.004" y="0.005" width="99.991" height="99.99"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_" overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_2_)" d="M0.115,2.246c0,0,12.57-6.083,20.661,1.774c8.092,7.857,12.211,17.216,13.01,18.125     l0.348-0.381l6.76,7.701l-0.342,0.388c0,0,11.135,10.217,16.16,15.943c5.024,5.726,44.359,52.917,43.257,54.169l-0.015,0.021     c-0.844,0.957-44.314-41.722-49.34-47.446C45.589,46.814,36.49,34.479,36.49,34.479l-0.34,0.39l-6.76-7.7l0.333-0.396     c-0.798-0.909-9.21,2.857-15.908-14.82C9.325,0.1,0.115,2.246,0.115,2.246L0.115,2.246z"/>
+		</g>
+	</g>
+</g>
+</svg>

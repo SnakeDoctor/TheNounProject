@@ -1,0 +1,18 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Your_Icon" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<path d="M94.466,0.5H18.958c-2.78,0-5.034,2.254-5.034,5.034v75.508c0,2.78,2.254,5.034,5.034,5.034h75.508    c2.78,0,5.034-2.254,5.034-5.034V5.534C99.5,2.754,97.246,0.5,94.466,0.5z M94.466,81.042H18.958V5.534h75.508V81.042z"/>
+		<rect x="23.992" y="10.568" width="25.169" height="25.169"/>
+		<rect x="54.195" y="10.568" width="35.237" height="5.034"/>
+		<rect x="54.195" y="20.636" width="35.237" height="5.034"/>
+		<rect x="54.195" y="30.704" width="35.237" height="5.034"/>
+		<rect x="23.992" y="40.771" width="65.441" height="5.034"/>
+		<rect x="23.992" y="50.839" width="65.441" height="5.034"/>
+		<rect x="23.992" y="60.907" width="65.441" height="5.033"/>
+		<path d="M18.958,87.754c-3.707,0-6.712-3.005-6.712-6.712V5.534H7.212v75.508c0,6.487,5.259,11.746,11.746,11.746h75.508v-5.034    H18.958z"/>
+		<path d="M18.958,94.466L18.958,94.466c-7.414,0-13.424-6.01-13.424-13.424V10.568H0.5v70.474C0.5,91.236,8.764,99.5,18.958,99.5    h70.475v-5.034H18.958z"/>
+	</g>
+</switch>
+</svg>

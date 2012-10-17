@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_2" x="0px" y="0px" width="99px" height="80.19px" viewBox="0 0 99 80.19" enable-background="new 0 0 99 80.19" xml:space="preserve">
+<symbol id="New_Symbol" viewBox="-5 -4.841 10 9.681">
+	<path stroke="#000000" stroke-miterlimit="10" d="M4.136-4.174C3.474-4.83,1.086-3.493-1.198-1.188   c-2.283,2.305-3.598,4.705-2.936,5.361s3.05-0.681,5.333-2.986C3.483-1.118,4.798-3.518,4.136-4.174z"/>
+	<polygon display="none" fill="none" points="-5,4 5,4 5,-4 -5,-4  "/>
+</symbol>
+<symbol id="New_Symbol_1" viewBox="-34 -24.19 68 48.38">
+	<path d="M15.125-22.642c0.449,0,0.795,0.618,1.018,0.83c0.749,1.099,3.093,6.272,3.122,12.4c0.02,4.361-3.266,7.519-0.068,10.686   c3.196,3.167,14.562,14.409,14.562,14.409s-2.795,0.858-5.405,3.315s3.021-3.054,0.352-0.36c-2.347,2.132-3.392,5.552-3.392,5.552   S13.947,12.928,10.751,9.761C7.554,6.594,4.505,9.789,0.145,9.81c-6.129,0.028-10.572-1.337-12.39-3.125   S-26.197-7.033-33.759-14.498c0,0,6.435-0.191,12.141-2.688S-9.02-22.642-9.02-22.642s2.785-0.966,6.493-1.396   C3.855-24.767,15.125-22.642,15.125-22.642z"/>
+	<polygon display="none" fill="none" points="-34,24 34,24 34,-24 -34,-24  "/>
+</symbol>
+<symbol id="New_Symbol_2" viewBox="-49 -8.283 98 16.566">
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="M-45.625-1.5   c0,0,5.583,7.333,19.25,6.75s18-5.583,28.5-8.75c18.167-5.333,43.5,3,43.5,3"/>
+	<polygon display="none" fill="none" points="-49,8 49,8 49,-8 -49,-8  "/>
+</symbol>
+<symbol id="New_Symbol_3" viewBox="-49 -8.283 98 16.566">
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="M-45.625-1.5   c0,0,5.583,7.333,19.25,6.75s18-5.583,28.5-8.75c18.167-5.333,43.5,3,43.5,3"/>
+	<polygon display="none" fill="none" points="-49,8 49,8 49,-8 -49,-8  "/>
+</symbol>
+<symbol id="New_Symbol_4" viewBox="-49 -8.283 98 16.566">
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="M-45.625-1.5   c0,0,5.583,7.333,19.25,6.75s18-5.583,28.5-8.75c18.167-5.333,43.5,3,43.5,3"/>
+	<polygon display="none" fill="none" points="-49,8 49,8 49,-8 -49,-8  "/>
+</symbol>
+<use xlink:href="#New_Symbol_2" width="98" height="16.566" x="-49" y="-8.283" transform="matrix(1 0 0 -1 49 52)" overflow="visible"/>
+<use xlink:href="#New_Symbol_3" width="98" height="16.566" x="-49" y="-8.283" transform="matrix(1 0 0 -1 50 62)" overflow="visible"/>
+<use xlink:href="#New_Symbol_4" width="98" height="16.566" x="-49" y="-8.283" transform="matrix(1 0 0 -1 50 72)" overflow="visible"/>
+<use xlink:href="#New_Symbol_1" width="68" height="48.38" x="-34" y="-24.19" transform="matrix(1 0 0 -1 63 27)" overflow="visible"/>
+<use xlink:href="#New_Symbol" width="10" height="9.681" x="-5" y="-4.841" transform="matrix(1 0 0 -1 94 5)" overflow="visible"/>
+</svg>

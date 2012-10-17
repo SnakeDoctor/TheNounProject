@@ -1,0 +1,20 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="-13.223 0 100 100" enable-background="new -13.223 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<path d="M48.521,25.045c3.347,0.001,6.064-2.716,6.063-6.064c0.002-3.354-2.716-6.068-6.063-6.06    c-3.354-0.008-6.069,2.706-6.061,6.06C42.453,22.329,45.168,25.046,48.521,25.045L48.521,25.045z"/>
+		<path d="M40.713,36.205l0.037,46.321c0.014,4.622,6.825,4.581,6.809-0.108l0.036-26.955h1.319v26.921    c-0.014,4.712,6.881,4.829,6.885,0.143V35.991h1.212v16.618c-0.016,3.993,5.395,3.993,5.383,0.071V34.53    c0.012-4.9-3.622-7.776-7.451-7.774H44.136c-2.559-0.001-4.416,1.012-5.991,3.245l-5.456,7.952h-9.45    c-3.82,0-3.607,5.398-0.069,5.385h10.911c0.849,0.013,1.889-0.304,2.496-1.214L40.713,36.205L40.713,36.205z"/>
+		<polygon points="22.92,64.587 22.92,60.169 18.499,60.169 18.499,64.587   "/>
+		<path d="M20.651,64.68"/>
+		<polygon points="25.344,54.745 22.099,51.537 18.854,54.745 22.099,57.99   "/>
+		<path d="M22.195,56.213"/>
+		<polygon points="22.314,48.649 19.068,45.44 15.859,48.649 19.068,51.895   "/>
+		<path d="M18.831,49.449"/>
+		<polygon points="29.017,85.947 34.794,55.317 30.445,55.317 25.415,81.669 17.927,81.669 12.972,55.317 8.656,55.317     14.291,85.947   "/>
+		<line fill="#000000" stroke="#FFFFFF" stroke-width="7" stroke-miterlimit="10" x1="3.65" y1="17.022" x2="70.526" y2="83.898"/>
+		<circle fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" cx="37.087" cy="50.46" r="47.291"/>
+		<line fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="3.65" y1="17.022" x2="70.526" y2="83.898"/>
+	</g>
+</switch>
+</svg>

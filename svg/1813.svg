@@ -1,0 +1,9 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_2" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<path d="M57.494,2.438C41.155,2.438,28,15.741,28,32.102V38H16v41.566C16,89.379,24.261,97,34.075,97h35.598    C79.484,97,87,89.379,87,79.566V32.102C87,15.741,73.842,2.438,57.494,2.438z M58.889,80.326c0.108,0.4,0.02,0.821-0.229,1.155    C58.402,81.808,58.015,82,57.597,82H46.151c-0.413,0-0.803-0.192-1.057-0.519c-0.254-0.334-0.338-0.757-0.232-1.157l3.23-12.29    c-2.218-1.32-3.596-3.698-3.596-6.333c0-4.077,3.309-7.384,7.379-7.384c4.067,0,7.379,3.307,7.379,7.384    c0,2.635-1.381,5.014-3.596,6.334L58.889,80.326z M76,38H40v-5.898c0-9.814,8.193-17.798,17.998-17.798    C67.812,14.304,76,22.288,76,32.102V38z"/>
+	</g>
+</switch>
+</svg>

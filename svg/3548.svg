@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<g>
+		<path d="M0,0v100h100V0H0z M93,92H8V7h85V92z"/>
+	</g>
+</g>
+<g>
+	<rect x="60.228" y="6.508" transform="matrix(0.7071 0.7071 -0.7071 0.7071 28.1953 -39.7961)" width="3.815" height="15.258"/>
+	<rect x="60.229" y="6.507" transform="matrix(0.707 -0.7072 0.7072 0.707 8.2061 48.0816)" width="3.813" height="15.258"/>
+</g>
+<g>
+	<rect x="58" y="22" width="8" height="39"/>
+	<rect x="25" y="61" width="8" height="37"/>
+	<rect x="29" y="61" width="37" height="8"/>
+</g>
+</svg>

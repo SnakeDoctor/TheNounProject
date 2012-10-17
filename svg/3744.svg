@@ -1,0 +1,25 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="84px" height="39px" viewBox="0 0 84 39" enable-background="new 0 0 84 39" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<title>Submarine</title>
+		<description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+		<g id="Page_1">
+			<g id="Submarine_2_">
+				<g id="Submarine">
+				</g>
+				<path id="Submarine_1_" d="M0,25c0-8,5-12,11-12V1c0-1,0-1,1-1h9c0,0,1,0,1,1v12h40c7,0,14,3,14,12c0,10-7,13-14,13H13      C7,38,0,35,0,25z"/>
+				<path id="Submarine_decoration" d="M0,0"/>
+				<g id="Windows">
+				</g>
+				<path id="Windows_decoration" fill="#000000" d="M40,30c-2,0-4-2-4-4s2-4,4-4s4,2,4,4S42,30,40,30z M23,30c-2,0-4-2-4-4s2-4,4-4      s4,2,4,4S25,30,23,30z M57,30c-2,0-4-2-4-4s2-4,4-4s4,2,4,4S59,30,57,30z M0,0"/>
+				<g id="Propeller">
+				</g>
+				<path id="Propeller_1_" d="M74,14h6l4,6l-4,6l4,6l-4,6h-6l-4-6l3-6l-3-6L74,14z"/>
+				<path id="Propeller_decoration" d="M0,0"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>

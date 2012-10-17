@@ -1,0 +1,16 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="74" height="100" id="svg3984" version="1.1" inkscape:version="0.48.1 " sodipodi:docname="Book.svg">
+  <defs id="defs3986"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="4" inkscape:cx="57.631226" inkscape:cy="51.117933" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1366" inkscape:window-height="706" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
+  <metadata id="metadata3989">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-952.36218)">
+    <path inkscape:connector-curvature="0" style="fill:#000000;fill-opacity:1;stroke:none" d="m 68.83031,952.56396 c -10.8118,0.0857 -68.75000002,0.11069 -68.75000002,0.11069 -0.0717,39.94683 0.31073,69.24895 0.33578,94.19645 l 3.57142002,5.6917 69.97744,0 0,-91.74102 -2.12038,0 c -1.04529,-1.08173 -3.71425,-5.46856 -3.68322,-5.46856 0.2536,-6.7e-4 0.30363,0.0355 2.79037,0 0,0 -1.74677,-2.30748 -2.12067,-2.79037 z m -40.73638,2.79036 c 13.44071,-0.0355 28.81854,-0.0539 36.49534,0 0,0.0532 3.4121,5.21925 3.68322,5.46857 L 6.55353,960.37642 3.09391,955.46576 c 0,0 11.55894,-0.0822 25.00002,-0.11077 z m -17.18785,8.70495 5.13427,0 0,86.04923 -5.13427,0 z" id="rect4505-0-1-0" sodipodi:nodetypes="ccccccccccccccccccccccc" inkscape:export-filename="C:\Users\D'C\Desktop\Icon 256x256\Book.png" inkscape:export-xdpi="822.85712" inkscape:export-ydpi="822.85712"/>
+  </g>
+</svg>

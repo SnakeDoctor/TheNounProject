@@ -1,0 +1,12 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Icon" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<path d="M18,86.5c0,2.475-2.025,4.5-4.5,4.5h-9C2.025,91,0,88.975,0,86.5v-28C0,56.025,2.025,54,4.5,54h9    c2.475,0,4.5,2.025,4.5,4.5V86.5z"/>
+		<path d="M45,86.5c0,2.475-2.025,4.5-4.5,4.5h-9c-2.475,0-4.5-2.025-4.5-4.5v-50c0-2.475,2.025-4.5,4.5-4.5h9    c2.475,0,4.5,2.025,4.5,4.5V86.5z"/>
+		<path d="M73,86.5c0,2.475-2.025,4.5-4.5,4.5h-9c-2.475,0-4.5-2.025-4.5-4.5v-73c0-2.475,2.025-4.5,4.5-4.5h9    c2.475,0,4.5,2.025,4.5,4.5V86.5z"/>
+		<path d="M100,86.5c0,2.475-2.025,4.5-4.5,4.5h-9c-2.475,0-4.5-2.025-4.5-4.5v-46c0-2.475,2.025-4.5,4.5-4.5h9    c2.475,0,4.5,2.025,4.5,4.5V86.5z"/>
+	</g>
+</switch>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<rect x="18" y="18" width="7" height="31"/>
+<rect x="33" y="18" width="7" height="31"/>
+<rect x="47" y="18" width="7" height="31"/>
+<rect x="62" y="18" width="6" height="31"/>
+<rect x="75" y="18" width="7" height="31"/>
+<g>
+	<ellipse cx="20.939" cy="9.813" rx="4.119" ry="4.633"/>
+	<polygon points="21.159,0.863 25.12,10 17.196,10  "/>
+</g>
+<g>
+	<ellipse cx="36.061" cy="9.813" rx="4.12" ry="4.633"/>
+	<polygon points="36.279,0.863 40.241,10 32.317,10  "/>
+</g>
+<g>
+	<ellipse cx="51.182" cy="9.813" rx="4.12" ry="4.633"/>
+	<polygon points="51.4,0.863 55.362,10 47.438,10  "/>
+</g>
+<g>
+	<ellipse cx="65.303" cy="9.813" rx="4.12" ry="4.633"/>
+	<polygon points="65.521,0.863 69.482,10 61.56,10  "/>
+</g>
+<g>
+	<ellipse cx="78.424" cy="9.813" rx="4.12" ry="4.633"/>
+	<polygon points="78.643,0.863 82.605,10 74.682,10  "/>
+</g>
+<g>
+	<path d="M99,89c0,3.313-2.687,6-6,6H8c-3.313,0-6-2.687-6-6V59c0-3.313,2.687-6,6-6h85c3.313,0,6,2.687,6,6V89z"/>
+</g>
+</svg>

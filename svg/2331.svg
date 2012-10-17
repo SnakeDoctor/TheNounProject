@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" version="1.1" x="0px" y="0px" width="100px" height="100px" viewBox="-15 -4 100 100" overflow="visible" enable-background="new -15 -4 100 100" xml:space="preserve">
+<defs>
+</defs>
+<path d="M50,45V27.946v-1.08c0-8.622-6.877-15.75-15.5-15.75c-8.622,0-15.5,7.477-15.5,16.1v0.731V45h-3v3h9v26h4V48h12v36h3V48h9  v-3H50z M24,27.946v-0.731c0-7.849,3.622-14.232,11.09-14.232c7.467,0,12.91,6.228,12.91,13.883v1.08V45H24V27.946z"/>
+<rect y="32" display="none" width="8" height="3"/>
+<rect x="60" y="32" display="none" width="8" height="3"/>
+<rect x="11.287" y="8.286" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.9428 12.6402)" display="none" width="3" height="8.001"/>
+<rect x="32" display="none" width="3" height="8"/>
+<rect x="53.006" y="8.287" transform="matrix(0.7071 0.7071 -0.7071 0.7071 24.6524 -34.9428)" display="none" width="3" height="8"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="100px" height="100px" viewBox="0 0 100 100">
+
+<title>Exit Full Screen</title>
+<script type="text/javascript">
+var metadata = {
+	"Designer": "Anas Ramadan",
+	"Organization": "RichStyle.org",
+	"Year": "2012",
+	"Country": "Syria",
+	"License": "CC-BY-3.0"
+	}
+</script>
+
+<path d="M 40,40 40,5 25,20 10,5 5,10 20,25 5,40 z"/>
+<path d="M 60,40 60,5 75,20 90,5 95,10 80,25 95,40 z"/>
+<path d="M 40,60 40,95 25,80 10,95 5,90 20,75 5,60 z"/>
+<path d="M 60,60 60,95 75,80 90,95 95,90 80,75 95,60 z"/>
+</svg>

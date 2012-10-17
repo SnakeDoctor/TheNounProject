@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path display="none" fill="#000000" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="M70,50c0,11.046-8.954,20-20,20  s-20-8.954-20-20s8.954-20,20-20c4.962,0,9.502,1.807,12.997,4.799C67.283,38.467,70,43.916,70,50z"/>
+<circle display="none" fill="#000000" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" cx="26" cy="25" r="15"/>
+<circle display="none" fill="#000000" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" cx="75" cy="26" r="15"/>
+<path stroke="#FFFFFF" stroke-miterlimit="10" d="M14,87l8.546-5.349c0,0,0.625-1.69-0.44-2.756s-2.756-0.44-2.756-0.44L14,87z" fill="#000000"/>
+<circle stroke="#FFFFFF" stroke-miterlimit="10" cx="83.82" cy="17.18" r="6.82" fill="#000000"/>
+<path stroke="#FFFFFF" stroke-miterlimit="10" d="M19.349,78.455c0,0,1.691-0.625,2.756,0.44s0.44,2.756,0.44,2.756l61.368-61.368  c0,0,0.625-1.691-0.439-2.756c-1.066-1.065-2.756-0.44-2.756-0.44L19.349,78.455z" fill="#000000"/>
+<path stroke="#FFFFFF" stroke-miterlimit="10" d="M3.5,94.084l7.12-7.138c0,0,0.228-1.788-1.05-2.586s-2.785,0.192-2.785,0.192  L3.5,94.084z" fill="#000000"/>
+<circle stroke="#FFFFFF" stroke-miterlimit="10" cx="55.782" cy="10.321" r="6.819" fill="#000000"/>
+<path stroke="#FFFFFF" stroke-miterlimit="10" d="M6.785,84.553c0,0,1.506-0.99,2.785-0.192s1.05,2.586,1.05,2.586l45.954-73.624  c0,0,0.227-1.788-1.051-2.586c-1.279-0.798-2.783,0.192-2.783,0.192L6.785,84.553z" fill="#000000"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="65.385px" viewBox="0 0 100 65.385" enable-background="new 0 0 100 65.385" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polygon fill="#000000" points="33.246,32.797 0,59.397 0,6.194    "/>
+		</g>
+		<g>
+			<polygon fill="#000000" points="66.602,32.797 99.846,59.397 99.846,6.194    "/>
+		</g>
+		<g>
+			<polygon fill="#000000" points="99.846,0 50.128,40.568 0,0    "/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#000000" d="M100,65.385L62.913,36.076L50.128,46.308l-12.79-10.231L0,65.385H100z"/>
+		</g>
+	</g>
+</g>
+</svg>

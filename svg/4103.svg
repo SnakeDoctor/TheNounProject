@@ -1,0 +1,10 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="90px" height="100px" viewBox="0 0 90 100" enable-background="new 0 0 90 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M85.625,0H4.375C1.77,0,0.208,1.562,0.208,4.167v91.667    c0,2.604,1.562,4.166,4.167,4.166h81.249c2.606,0,4.167-1.562,4.167-4.166V4.167C89.792,1.562,88.23,0,85.625,0z M83.542,91.667    c0,1.302-0.781,2.083-2.083,2.083H8.542c-1.302,0-2.083-0.781-2.083-2.083V8.333c0-1.302,0.781-2.083,2.083-2.083h72.917    c1.302,0,2.083,0.781,2.083,2.083V91.667z"/>
+		<circle fill-rule="evenodd" clip-rule="evenodd" cx="45.521" cy="82.812" r="4.687"/>
+	</g>
+</switch>
+</svg>

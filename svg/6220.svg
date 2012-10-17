@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Your_Icon" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<circle fill="#000000" cx="26.5" cy="72.5" r="7.086"/>
+<g>
+	<path fill="#000000" d="M80.508,40.875l-42.593-0.042v-9.95L26,7L15.021,30.926V100h17.806h5.088h51.968l0.125-46L80.508,40.875z    M36.008,98h-19V31h19V98z M38.008,98V54h50v44.167L38.008,98z"/>
+	<rect x="19.414" y="71.858" fill="#000000" width="14.174" height="26.362"/>
+	<rect x="26" y="70.441" fill="#000000" width="0.566" height="27.495"/>
+	<line fill="#000000" x1="68.299" y1="91.447" x2="63.213" y2="91.447"/>
+	<circle fill="#000000" cx="26.356" cy="40.379" r="5.67"/>
+</g>
+<g id="Your_Icon_1_">
+	<rect x="25.456" fill="#000000" width="1.134" height="9.921"/>
+</g>
+<polyline fill="#000000" points="29,3.134 23.331,3.134 23.331,2 29,2 "/>
+<circle fill="#000000" cx="48.5" cy="72.5" r="5.5"/>
+<circle fill="#000000" cx="63.499" cy="72.499" r="5.5"/>
+<circle fill="#000000" cx="79.5" cy="72.5" r="5.5"/>
+<rect x="74" y="73" fill="#000000" width="11" height="10"/>
+<rect x="58" y="73" fill="#000000" width="11" height="10"/>
+<rect x="43" y="73" fill="#000000" width="11" height="10"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<ellipse cx="87.612" cy="51.359" rx="6.972" ry="17.609"/>
+		<path d="M37.301,55.609c0,1.15-0.933,2.082-2.082,2.082h-3.644c-1.149,0-2.082-0.932-2.082-2.082v-8.501    c0-1.149,0.932-2.082,2.082-2.082h3.644c1.149,0,2.082,0.932,2.082,2.082V55.609z"/>
+		<rect x="34.004" y="47.282" width="47.189" height="8.153"/>
+		<path d="M37.301,55.609v-8.501c41.464,0,50.312-13.358,50.312-13.358v35.219C87.612,68.969,83.449,55.609,37.301,55.609z"/>
+		<path d="M20.039,37.22c-7.81,0-14.14,6.33-14.14,14.139c0,7.809,6.33,14.139,14.14,14.139c7.809,0,14.139-6.33,14.139-14.139    C34.178,43.55,27.847,37.22,20.039,37.22z M9.021,44.658c0,0,3.296-6.593,12.665-6.593C21.687,38.065,13.525,38.342,9.021,44.658z    "/>
+		<path fill="none" stroke="#000000" stroke-width="1.7349" stroke-miterlimit="10" d="M40.597,51.359"/>
+		<path fill="none" stroke="#000000" stroke-width="1.7349" stroke-miterlimit="10" d="M42.158,51.359"/>
+		<rect x="34.178" y="46.588" width="5.551" height="9.542"/>
+		<rect x="40.826" y="52.582" width="1.562" height="11.971"/>
+		<g>
+			<path d="M43.499,56.33c0,0.477-0.39,0.867-0.868,0.867h-2.047c-0.478,0-0.868-0.391-0.868-0.867v-0.622     c0-0.478,0.39-0.868,0.868-0.868h2.047c0.478,0,0.868,0.391,0.868,0.868V56.33z"/>
+		</g>
+		<g>
+			<path d="M43.499,63.777c0,0.477-0.39,0.867-0.868,0.867h-2.047c-0.478,0-0.868-0.391-0.868-0.867v-0.623     c0-0.477,0.39-0.867,0.868-0.867h2.047c0.478,0,0.868,0.391,0.868,0.867V63.777z"/>
+		</g>
+	</g>
+</switch>
+</svg>

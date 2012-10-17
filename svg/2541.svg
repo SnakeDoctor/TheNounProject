@@ -1,0 +1,15 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<path fill="#000000" d="M74.576,40.758H41.338v-9.95L29.339-0.075L18.444,30.851v69.074H36.25h5.088h40.218V54.72L74.576,40.758z      M36.25,94.836H23.531V33.828H36.25v6.93V94.836z M41.338,94.836V57.863h35.131v36.973H41.338z"/>
+			<rect x="46.075" y="61.328" fill="#000000" width="5.088" height="30.044"/>
+			<rect x="56.469" y="61.328" fill="#000000" width="5.089" height="30.044"/>
+			<rect x="66.645" y="61.328" fill="#000000" width="5.086" height="30.044"/>
+			<circle fill="#000000" cx="29.788" cy="40.304" r="3.011"/>
+		</g>
+	</g>
+</switch>
+</svg>

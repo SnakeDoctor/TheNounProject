@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" id="Layer_1" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<rect x="9.992" y="4.992" fill="#000000" width="5" height="5"/>
+<rect x="19.992" y="4.992" fill="#000000" width="5" height="5"/>
+<rect x="29.992" y="4.992" fill="#000000" width="5" height="5"/>
+<rect x="39.992" y="4.992" fill="#000000" width="5" height="5"/>
+<rect x="4.992" y="9.992" fill="#000000" width="5" height="5"/>
+<rect x="14.992" y="9.992" fill="#000000" width="5" height="5"/>
+<rect x="24.992" y="9.992" fill="#000000" width="5" height="5"/>
+<rect x="34.992" y="9.992" fill="#000000" width="5" height="5"/>
+<rect x="9.992" y="14.992" fill="#000000" width="5" height="5"/>
+<rect x="19.992" y="14.992" fill="#000000" width="5" height="5"/>
+<rect x="29.992" y="14.992" fill="#000000" width="5" height="5"/>
+<rect x="39.992" y="14.992" fill="#000000" width="5" height="5"/>
+<rect x="4.992" y="19.992" fill="#000000" width="5" height="5"/>
+<rect x="14.992" y="19.992" fill="#000000" width="5" height="5"/>
+<rect x="24.992" y="19.992" fill="#000000" width="5" height="5"/>
+<rect x="34.992" y="19.992" fill="#000000" width="5" height="5"/>
+<rect x="9.992" y="24.992" fill="#000000" width="5" height="5"/>
+<rect x="19.992" y="24.992" fill="#000000" width="5" height="5"/>
+<rect x="29.992" y="24.992" fill="#000000" width="5" height="5"/>
+<rect x="39.992" y="24.992" fill="#000000" width="5" height="5"/>
+<rect x="4.992" y="29.992" fill="#000000" width="5" height="5"/>
+<rect x="14.992" y="29.992" fill="#000000" width="5" height="5"/>
+<rect x="24.992" y="29.992" fill="#000000" width="5" height="5"/>
+<rect x="34.992" y="29.992" fill="#000000" width="5" height="5"/>
+<rect x="9.992" y="34.992" fill="#000000" width="5" height="5"/>
+<rect x="19.992" y="34.992" fill="#000000" width="5" height="5"/>
+<rect x="29.992" y="34.992" fill="#000000" width="5" height="5"/>
+<rect x="39.992" y="34.992" fill="#000000" width="5" height="5"/>
+<rect x="4.992" y="39.992" fill="#000000" width="5" height="5"/>
+<rect x="14.992" y="39.992" fill="#000000" width="5" height="5"/>
+<rect x="24.992" y="39.992" fill="#000000" width="5" height="5"/>
+<rect x="34.992" y="39.992" fill="#000000" width="5" height="5"/>
+<path fill="#000000" d="M0,0v50h50V0H0z M49,49H1V1h48V49L49,49z"/>
+<path fill="#000000" d="M4.5,4.5v41h41v-41H4.5z M44.682,44.682H5.32V5.32h39.362V44.682L44.682,44.682z"/>
+</svg>
